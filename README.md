@@ -1,6 +1,6 @@
 Learning some basic server administration. It has 9 main modules:  
   
-	Installing and Configuring Windows Server  
+	Installing and Configuring Windows Server  (100 % done)
 	Active Directory & Identity with Windows Server  
 	Group Policy & Security with Windows Server  
 	Installing and Configuring Domain Name System (DNS))  
